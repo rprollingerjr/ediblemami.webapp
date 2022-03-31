@@ -1,0 +1,12 @@
+/* sdsds */
+
+.media-container {
+    width: 375px;
+    text-align: center;
+    margin: auto;
+
+}
+
+.media-container img {
+    width: 100%;
+}
